@@ -41,15 +41,16 @@ function updateDate() {
         document.getElementById('date').innerText = dateString;
         
     }
-// Update the Date FRom localstorage as current date
+// Update the Date From localstorage as current date
      setInterval(updateDate, 60000);
 
-// Call the function once to tnitialize the Date immediately
+// Call the function once to initialize the Date immediately
       updateDate();
 
-// Update the Clock verey second
+// Update the Clock very second
       setInterval(updateClock, 1000);
-// Call the function once to tnitialize the clock immediately
+// Call the function once to initialize the clock immediately
     updateClock();
    
+
 
