@@ -20,7 +20,7 @@ https://raw.githubusercontent.com/subhasribalagani-arch/DIgitalclock/4740fa937fe
 
 🚀 Getting Started
 1. Clone the repository
-git clone https://github.com/subuasribalagani-arch/Digital-clock.git
+git clone https://github.com/subhasribalagani-arch/Digital-clock.git
 cd digital-clock
 
 2. Open in Browser
