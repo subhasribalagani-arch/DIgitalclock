@@ -20,10 +20,12 @@ https://raw.githubusercontent.com/subhasribalagani-arch/DIgitalclock/4740fa937fe
 
 🚀 Getting Started
 1. Clone the repository
-git clone https://github.com/subhasribalagani-arch/Digital-clock.git
+
+   https://github.com/subhasribalagani-arch/DIgitalclock.git
+   
 cd digital-clock
 
-2. Open in Browser
+3. Open in Browser
 
 Just open the index.html file in any modern browser.
 
