@@ -16,8 +16,7 @@
 
 🖼️ Preview
 
-
-https://github.com/subhasribalagani-arch/DIgitalclock/blob/main/Screenshot_7-9-2025_181249_127.0.0.1.jpeg?raw=true
+https://raw.githubusercontent.com/subhasribalagani-arch/DIgitalclock/4740fa937fed3a9b3dd670d9807c7f444f624959/Screenshot_7-9-2025_181249_127.0.0.1.jpeg
 
 🚀 Getting Started
 1. Clone the repository
