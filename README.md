@@ -61,5 +61,5 @@ JavaScript (Vanilla JS) – Functionality
 
 🤝 Contributing
 
-Contributions are welcome! Feel free to fork this repo and submit pull requests.
+Contributions are welcome! Feel free to for this repo and submit pull requests.
 
